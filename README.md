@@ -20,4 +20,4 @@ Key Analysis
 
 Dashboard Preview
 
-"Excel Dashboard" (Excel%20Dashboard.jpeg)
+"Excel Dashboard" (./Excel%20Dashboard.jpeg)
